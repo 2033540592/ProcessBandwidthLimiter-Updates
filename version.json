@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/2033540592/ProcessBandwidthLimiter-Updates/releases/download/v1.2.0/ProcessBandwidthLimiter_v1.2.0.zip",
-  "changelog": "v1.2.0 第二版测试\n\n- 修复了上一版本更新问题\n- 优化了下载逻辑\n- 其他改进"
+  "version": "1.4.0",
+  "downloadUrl": "https://github.com/2033540592/ProcessBandwidthLimiter-Updates/releases/download/v1.4.0/ProcessBandwidthLimiter_v1.4.0.zip",
+  "changelog": "\u4FEE\u590D\u4E86\u4E91\u66F4\u65B0\u4E0B\u8F7D\u7F13\u6162\u7684\u95EE\u9898\uFF0C\u4F18\u5316\u4E86 UI \u54CD\u5E94\u901F\u5EA6"
 }
